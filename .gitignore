@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+.env.*
+!.env.example
+
+# VSCode
+.vscode/
+
+# Output
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+*.pytest_cache/
+
+# Misc
+*.log
